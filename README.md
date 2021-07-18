@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello World 
+<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 ### I'm Thalles Fernandes de Lana!
 ### 💻 I'm a Web and Mobile Developer!
@@ -14,8 +15,6 @@
 # Languages and Tools:
 [![Thalles Lana GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 - Thanks for visiting!
 - Enjoy it!! o/
