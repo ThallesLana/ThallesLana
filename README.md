@@ -12,7 +12,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thalles-lana/)
 
 # Languages and Tools:
-![Thalles Lana GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana)
+[![Thalles Lana GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana)](https://github.com/ThallesLana/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana)](https://github.com/anuraghazra/github-readme-stats)
 
