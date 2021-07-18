@@ -13,7 +13,7 @@
 
 # Languages and Tools:
 [![Thalles Lana GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThallesLana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ThallesLana)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - Thanks for visiting!
 - Enjoy it!! o/
