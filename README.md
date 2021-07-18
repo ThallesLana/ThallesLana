@@ -21,9 +21,8 @@
 
 <!-- Contato -->
 # Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="60">
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/thalleslana1@gmail.com)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/ThallesLana)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFrGpFdFRJdhQpXzKvDDmhfPvgkCgkmKNjgsfvPbkqhKzqBsbbjxJDFVXtllGMWJZggpTj)
 
 - Thanks for visiting!
 - Enjoy it!!
