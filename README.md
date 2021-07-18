@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## I'm Thalles Fernandes de Lana!
-# 💻 I'm a Web and Mobile Developer!
+## 💻 I'm a Web and Mobile Developer!
 # 🏡 I'm from Brazil.
 # 📚 I'm currently studying Systems Analysis and Development.
 # 📤 2021 Goals: Finish my main project (Wallet Control) and graduate from college!
