@@ -23,6 +23,7 @@
 # Connect with me <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif width="60">
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFrGpFdFRJdhQpXzKvDDmhfPvgkCgkmKNjgsfvPbkqhKzqBsbbjxJDFVXtllGMWJZggpTj)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Thalles.Lana/)
 
 - Thanks for visiting!
 - Enjoy it!!
