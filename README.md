@@ -14,7 +14,6 @@
 # Languages and Tools:
 [![Thalles Lana GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana)](https://github.com/ThallesLana/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana)](https://github.com/anuraghazra/github-readme-stats)
 
 - Thanks for visiting!
 - Enjoy it!! o/
