@@ -12,7 +12,7 @@
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60"> Languages and Tools:
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallesLana&show_icons=true&theme=synthwave")/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLana&layout=compact")/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLana&layout=compact&theme=synthwave")/>
 </div>
 
 ### 👨🏻‍💻 Languages :
