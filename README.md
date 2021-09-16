@@ -10,8 +10,10 @@
 
 <!-- Linguagens e Ferramentas -->
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60"> Languages and Tools:
-[![Thalles Lana GitHub stats](https://github-readme-stats.vercel.app/api?username=ThallesLana&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallesLana&show_icons=true&theme=synthwave")/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLana&layout=compact")/>
+</div>
 
 ### 👨🏻‍💻 Languages :
 <!-- [![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-br/dotnet/csharp/) -->
