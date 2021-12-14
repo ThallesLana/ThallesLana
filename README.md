@@ -2,7 +2,7 @@
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Hello World <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 ### I'm Thalles Fernandes de Lana!
-### 💻 Web and Mobile Developer!
+### 💻 Graphic Designer, Web and Mobile Developer!
 ### 🏡 I'm from Brazil.
 ### 📚 I'm currently studying Systems Analysis and Development.
 ### 📤 2021 Goals: Finish my main project (wallet control) and graduate from college!
