@@ -5,7 +5,7 @@
 ### 💻 Graphic Designer, Web and Mobile Developer!
 ### 🏡 I'm from Brazil.
 ### 📚 Graduate in Systems Analysis and Development.
-### 📤 2021 Goals: Finish my main project (wallet control) and graduate from college!
+### 📤 2021 Goals: Completed's!
 ### 👽 Aliens Exist ?
 
 <!-- Linguagens e Ferramentas -->
