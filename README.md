@@ -4,7 +4,7 @@
 ### I'm Thalles Fernandes de Lana!
 ### 💻 Graphic Designer, Web and Mobile Developer!
 ### 🏡 I'm from Brazil.
-### 📚 I'm currently studying Systems Analysis and Development.
+### 📚 Graduate in Systems Analysis and Development.
 ### 📤 2021 Goals: Finish my main project (wallet control) and graduate from college!
 ### 👽 Aliens Exist ?
 
