@@ -6,7 +6,6 @@
 ### 🏡 I'm from Brazil.
 ### 📚 Graduate in Systems Analysis and Development.
 ### 📤 2022 Goals: Study Angular, deepen my knowledge in mobile development and improve my knowledge in Laravel!
-### 👽 Aliens Exist ?
 
 <!-- Linguagens e Ferramentas -->
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60"> Languages and Tools:
