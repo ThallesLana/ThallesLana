@@ -5,7 +5,7 @@
 ### 💻 Graphic Designer, Web and Mobile Developer!
 ### 🏡 I'm from Brazil.
 ### 📚 Graduate in Systems Analysis and Development.
-### 📤 2022 Goals: Study Angular, deepen my knowledge in mobile development and improve my knowledge in Laravel!
+### 📤 2022 Goals: Improve my programming logic, study React Native for mobile development and study enough to call myself a fullstack developer.
 
 <!-- Linguagens e Ferramentas -->
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60"> Languages and Tools:
@@ -16,7 +16,7 @@
 
 ### 👨🏻‍💻 Technologies :
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-[![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/?hl=pt)
+<!--[![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/?hl=pt) -->
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Glossary/HTML5)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
