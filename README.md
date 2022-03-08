@@ -2,10 +2,10 @@
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif width="30"> Hello World <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 
 ### I'm Thalles Fernandes de Lana!
-### 💻 Graphic Designer, Web and Mobile Developer!
-### 🏡 I'm from Brazil.
-### 📚 Graduate in Systems Analysis and Development.
-### 📤 2022 Goals: Improve my programming logic, study React Native for mobile development and study enough to call myself a fullstack developer.
+## 💻 Graphic Designer, Web and Mobile Developer!
+## 🏡 I'm from Brazil.
+## 📚 Graduate in Systems Analysis and Development.
+## 📤 2022 Goals: Improve my programming logic, study React Native for mobile development and study enough to call myself a fullstack developer.
 
 <!-- Linguagens e Ferramentas -->
 ## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif width="60"> Languages and Tools:
