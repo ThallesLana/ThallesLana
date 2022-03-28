@@ -5,7 +5,7 @@
 #### 💻 DevOps, Ethical Hacker Enthusiast & Mobile and Web Developer!
 #### 🏡 I'm from Brazil.
 #### 📚 Graduate in Systems Analysis and Development.
-#### 📤 2022 Goals: Improve my programming logic, study React Native for mobile development and study enough to call myself a fullstack developer.
+#### 📤 2022 Goals: Study React Native for mobile development and study enough to call myself a fullstack developer.
 
 <!-- Linguagens e Ferramentas -->
 
