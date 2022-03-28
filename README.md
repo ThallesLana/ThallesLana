@@ -1,7 +1,5 @@
 <!-- Welcome -->
-## <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="20"> Hello World
-
-#### I'm Thalles Fernandes de Lana!
+### Hello World, I'm Thalles!
 #### 💻 DevOps, Ethical Hacker Enthusiast & Mobile and Web Developer!
 #### 🏡 I'm from Brazil.
 #### 📚 Graduate in Systems Analysis and Development.
