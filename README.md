@@ -10,13 +10,13 @@
 <!-- Linguagens e Ferramentas -->
 
 ### 👨‍💻 Languages and Tools:
-[![JAVA Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/about/whatis_java.jsp)
-[![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![Node Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![JAVA Badge](https://img.shields.io/badge/Java-6633cc?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/about/whatis_java.jsp)
+[![Laravel Badge](https://img.shields.io/badge/Laravel-6633cc?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Node Badge](https://img.shields.io/badge/Node.js-6633cc?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
+[![Python Badge](https://img.shields.io/badge/Python-6633cc?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![React Badge](https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![TS Badge](https://img.shields.io/badge/TypeScript-6633cc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![VS Code Badge](https://img.shields.io/badge/Visual_Studio_Code-6633cc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 ### 📊 Stats:
 <div>
@@ -26,8 +26,8 @@
 
 <!-- Contato -->
 ### 🤝 Contact me:
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFrGpFdFRJdhQpXzKvDDmhfPvgkCgkmKNjgsfvPbkqhKzqBsbbjxJDFVXtllGMWJZggpTj)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-lana/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-6633cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalles.lana1@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-6633cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thalles-lana/)
 
 <!--
 **ThallesLana/ThallesLana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
