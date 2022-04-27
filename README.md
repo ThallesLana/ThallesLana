@@ -2,7 +2,7 @@
 
 <!-- Welcome -->
 ### Hello World, I'm Thalles!
-#### 💻 DevOps, Ethical Hacker Enthusiast and Web/Mobile Developer!
+#### 💻 Web and Mobile Developer!
 #### 🏡 I'm from Brazil.
 #### 📚 Graduate in Systems Analysis and Development.
 #### 📤 2022 Goals: Study React Native for mobile development and study enough to call myself a fullstack developer.
