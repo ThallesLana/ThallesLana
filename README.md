@@ -11,12 +11,12 @@
 
 ### 👨‍💻 Languages and Tools:
 [![Angular Badge](https://img.shields.io/badge/Angular-6633cc?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![JAVA Badge](https://img.shields.io/badge/Java-6633cc?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/pt-BR/about/whatis_java.jsp)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-6633cc?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Node Badge](https://img.shields.io/badge/Node.js-6633cc?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
 [![Python Badge](https://img.shields.io/badge/Python-6633cc?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![React Badge](https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TS Badge](https://img.shields.io/badge/TypeScript-6633cc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TW Badge](https://img.shields.io/badge/Tailwind_CSS-6633cc?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.typescriptlang.org/)
 [![VS Code Badge](https://img.shields.io/badge/VS_Code-6633cc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 ### 📊 Stats:
