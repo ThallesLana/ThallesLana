@@ -16,7 +16,7 @@
 [![Python Badge](https://img.shields.io/badge/Python-6633cc?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![React Badge](https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TS Badge](https://img.shields.io/badge/TypeScript-6633cc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![TW Badge](https://img.shields.io/badge/Tailwind_CSS-6633cc?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.typescriptlang.org/)
+[![TW Badge](https://img.shields.io/badge/Tailwind-6633cc?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.typescriptlang.org/)
 [![VS Code Badge](https://img.shields.io/badge/VS_Code-6633cc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 
 ### 📊 Stats:
