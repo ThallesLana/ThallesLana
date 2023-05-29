@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/57325727/160325799-fde117e0-e47f-4158-a05c-4a6046c14681.svg" width="350"/>
+<img align="right" src="https://user-images.githubusercontent.com/57325727/160325799-fde117e0-e47f-4158-a05c-4a6046c14681.svg" width="300"/>
 
 <!-- Welcome -->
 ### Hello World, I'm Thalles!
