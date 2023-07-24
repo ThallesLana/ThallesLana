@@ -5,10 +5,10 @@
 #### 💻 Full-stack Developer!
 #### 🏡 I'm from Brazil.
 #### 📚 Graduate in Systems Analysis and Development.
-#### 📤 2023 Goals - 01: Improve your knowledge in PHP and Angular; 
-#### 📤 2023 Goals - 02: Study Golang and Vue.js; 
+#### 📤 2023 Goals - 01: Improve my knowledge in PHP and JavaScript; 
+#### 📤 2023 Goals - 02: Study Kotlin; 
 #### 📤 2023 Goals - 03: Create at least 10 complete projects this year; 
-#### 📤 2023 Goals - 04: Become fluent in English!
+#### 📤 2023 Goals - 04: Study English!
 
 <!-- Linguagens e Ferramentas -->
 
