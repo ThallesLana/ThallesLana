@@ -4,22 +4,33 @@
 ### Hello World, I'm Thalles!
 #### 💻 Full-stack Developer!
 #### 🏡 I'm from Brazil.
-#### 📚 Graduate in Systems Analysis and Development.
-#### 📤 2023 Goals - 01: Improve my knowledge in PHP and JavaScript; 
-#### 📤 2023 Goals - 02: Study Kotlin; 
-#### 📤 2023 Goals - 03: Create at least 10 complete projects this year; 
-#### 📤 2023 Goals - 04: Study English!
+#### 📚 Graduate in Systems Analysis and Development and pursuing a postgraduate degree in Software Engineering.
+#### 📤 2024 Goals - 01: Improve my knowledge in PHP and JavaScript; 
+#### 📤 2024 Goals - 02: become an Android expert; 
+#### 📤 2023 Goals - 03: Study English!
 
 <!-- Linguagens e Ferramentas -->
 
 ### 👨‍💻 Languages and Tools:
-[![Angular Badge](https://img.shields.io/badge/Angular-6633cc?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Angular Badge](https://img.shields.io/badge/Android_Studio-6633cc?style=for-the-badge&logo=android-studio&logoColor=white)](https://angular.io/)
+[![Android Studio Badge](https://img.shields.io/badge/Angular-6633cc?style=for-the-badge&logo=angular&logoColor=white)](https://developer.android.com/studio?hl=pt-br)
+[![Figma Badge](https://img.shields.io/badge/Figma-6633cc?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Laravel Badge](https://img.shields.io/badge/Laravel-6633cc?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Kotlin Badge](https://img.shields.io/badge/Kotlin-6633cc?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Node Badge](https://img.shields.io/badge/Node.js-6633cc?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
+[![JS Badge](https://img.shields.io/badge/JavaScript-6633cc?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![HTML5 Badge](https://img.shields.io/badge/HTML5-6633cc?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-6633cc?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![MySQL Badge](https://img.shields.io/badge/MySQL-6633cc?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![JSON Badge](https://img.shields.io/badge/json-6633cc?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
+[![PHP Badge](https://img.shields.io/badge/PHP-6633cc?style=for-the-badge&logo=php&logoColor=white)](https://php.net/)
+[![jQuery Badge](https://img.shields.io/badge/jQuery-6633cc?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![PHP Storm Badge](https://img.shields.io/badge/PHPStorm-6633cc?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/pt-br/phpstorm/)
 [![React Badge](https://img.shields.io/badge/React-6633cc?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![TS Badge](https://img.shields.io/badge/TypeScript-6633cc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TW Badge](https://img.shields.io/badge/Tailwind-6633cc?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://www.typescriptlang.org/)
 [![VS Code Badge](https://img.shields.io/badge/VS_Code-6633cc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![WebStorm Badge](https://img.shields.io/badge/WebStorm-6633cc?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/pt-br/webstorm/)
 
 ### 📊 Stats:
 <div>
