@@ -27,7 +27,7 @@
 [![PHP Storm Badge](https://img.shields.io/badge/PHPStorm-6633cc?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/pt-br/phpstorm/)
 [![TS Badge](https://img.shields.io/badge/TypeScript-6633cc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![TW Badge](https://img.shields.io/badge/Tailwind-6633cc?style=for-the-badge&logo=tailwind-css&logoColor=white)]([https://www.typescriptlang.org/](https://tailwindcss.com/))
-[![VS Code Badge](https://img.shields.io/badge/VS_Code-6633cc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![VSCode Badge](https://img.shields.io/badge/VSCode-6633cc?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![WebStorm Badge](https://img.shields.io/badge/WebStorm-6633cc?style=for-the-badge&logo=WebStorm&logoColor=white)](https://www.jetbrains.com/pt-br/webstorm/)
 
 ### 📊 Stats:
