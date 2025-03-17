@@ -5,9 +5,6 @@
 #### 💻 Full-stack Developer!
 #### 🏡 I'm from Brazil.
 #### 📚 Graduate in Systems Analysis and Development and pursuing a postgraduate degree in Software Engineering.
-#### 📤 2024 Goals - 01: Improve my knowledge in PHP and Angular; 
-#### 📤 2024 Goals - 02: become an Android expert; 
-#### 📤 2024 Goals - 03: Study English!
 
 <!-- Linguagens e Ferramentas -->
 
