@@ -23,12 +23,6 @@
 [![Strapi Badge](https://img.shields.io/badge/Strapi-6633cc?style=for-the-badge&logo=strapi&logoColor=white)](https://strapi.io/)
 [![TS Badge](https://img.shields.io/badge/TypeScript-6633cc?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-### 📊 Stats:
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThallesLana&show_icons=true&theme=synthwave")/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThallesLana&layout=compact&theme=synthwave")/>
-</div>
-
 <!-- Contato -->
 ### 🤝 Contact me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-6633cc?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thalles.lana1@gmail.com)
